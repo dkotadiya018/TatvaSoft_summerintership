@@ -1,3 +1,6 @@
+--how to run -> use/paste this code in 'app.component.ts' and run it on server
+
+
 import { Component } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 
